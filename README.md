@@ -7,6 +7,7 @@ ___
 
 ```bash
 conda create -n tensorflow-gui python=3.8.15
+conda run -n tensorflow-gui pip install -r requirements.txt
 ```
 
 ___
